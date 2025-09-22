@@ -86,7 +86,6 @@ flowchart TD
 
 ### Parte 4 (`Parte2.py`)
 
-```mermaid
 flowchart TD
     A[Inicio] --> B[Cargar archivo .wav con librosa]
     B --> C[Resamplear a SR de trabajo]
@@ -94,9 +93,9 @@ flowchart TD
     D --> E[Aplicar máscaras de filtrado]
     E --> F[Calcular IFFT para cada filtro]
     F --> G[Guardar audios filtrados .wav]
-    G --> H[Graficar comparativas (tiempo y frecuencia)]
+    G --> H[Graficar comparativas - tiempo y frecuencia]
     H --> I[Fin]
-```
+
 
 ---
 
