@@ -114,7 +114,7 @@ Resultados: imágenes en `../imagenes/`.
 
 ```bash
 cd src
-python Parte2.py --sr 16000
+python Parte2.py
 ```
 
 Resultados: audios en `../audios/audios_filtrados/` y gráficas en `../imagenes/`.
