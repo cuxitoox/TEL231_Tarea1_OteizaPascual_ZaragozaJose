@@ -45,7 +45,7 @@ Carga un archivo `.wav`, aplica filtros en frecuencia (pasa bajos, pasa banda y 
 
 ```bash
 cd src
-python Parte2.py --sr 16000
+python Parte2.py 
 ```
 
 * Los audios resultantes se guardarán en `../audios/audios_filtrados/`.
