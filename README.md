@@ -7,14 +7,14 @@ Los códigos corresponden a la **Parte 3 (señal sintética y DFT)** y la **Part
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 * **José Zaragoza** — ROL: 202230539-8 — [jose.zaragoza@usm.cl](mailto:jose.zaragoza@usm.cl)
 * **Pascual Oteiza** — ROL: 202230554-1 — [pascual.oteiza@usm.cl](mailto:pascual.oteiza@usm.cl)
 
 ---
 
-## 📦 Librerías necesarias
+## Librerías necesarias
 
 Instala los paquetes requeridos con:
 
@@ -41,7 +41,7 @@ Además:
 
 ---
 
-## 📝 Explicación del código
+## Explicación del código
 
 ### Parte 3 – Señal sintética y DFT (`Parte1.py`)
 
@@ -68,7 +68,7 @@ Además:
 
 ---
 
-## 📊 Diagramas de flujo
+## Diagramas de flujo
 
 ### Parte 3 (`Parte1.py`)
 
@@ -99,7 +99,7 @@ flowchart TD
 
 ---
 
-## ▶️ Ejecución
+## Ejecución
 
 ### Parte 3
 
