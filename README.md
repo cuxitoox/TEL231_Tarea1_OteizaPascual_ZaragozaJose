@@ -9,8 +9,8 @@ Los códigos corresponden a la **Parte 3 (señal sintética y DFT)** y la **Part
 
 ## 👥 Integrantes
 
-* **José Zaragoza** — ROL: 202073001-5 — [jose.zaragoza@usm.cl](mailto:jose.zaragoza@usm.cl)
-* **Pascual Oteiza** — ROL: 202073002-3 — [pascual.oteiza@usm.cl](mailto:pascual.oteiza@usm.cl)
+* **José Zaragoza** — ROL: 202230539-8 — [jose.zaragoza@usm.cl](mailto:jose.zaragoza@usm.cl)
+* **Pascual Oteiza** — ROL: 202230554-1 — [pascual.oteiza@usm.cl](mailto:pascual.oteiza@usm.cl)
 
 ---
 
